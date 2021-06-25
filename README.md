@@ -1,5 +1,3 @@
-# Suggestion_Mining
-
 In this Project, I am implementing a transformer model for Suggestion Mining from opinion reviews.
 
 The project mainly having the following components:
